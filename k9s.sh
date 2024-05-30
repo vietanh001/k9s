@@ -11,4 +11,4 @@ tar -xvf k9s_Linux_amd64.tar.gz > /dev/null 2>&1
 echo "----------Move K9S To /usr/local/bin----------"
 sudo mv k9s /usr/local/bin/ > /dev/null 2>&1
 
-echo "K9s installation completed successfully."
+echo "K9s installation completed successfully!!!"
